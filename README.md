@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **berkay.yaldiz@hotmail.com**
 
-</a> <a href="https://parsel3d.tech/">
+
+<a href="https://parsel3d.tech/" </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
