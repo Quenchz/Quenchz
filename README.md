@@ -14,7 +14,7 @@
 - 📫 How to reach me **berkay.yaldiz@hotmail.com**
 
 
-<a href="https://parsel3d.tech/" </a>
+https://parsel3d.tech/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
